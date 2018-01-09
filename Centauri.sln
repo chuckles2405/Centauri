@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centauri.Android", "Centauri\Centauri.Android\Centauri.Android.csproj", "{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centauri", "Centauri\Centauri\Centauri.csproj", "{86E623C9-EC8E-437D-B5E0-01804C419761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFE9D5A-F219-4806-BBF7-4B70E6E3B9DD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{86E623C9-EC8E-437D-B5E0-01804C419761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E623C9-EC8E-437D-B5E0-01804C419761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E623C9-EC8E-437D-B5E0-01804C419761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E623C9-EC8E-437D-B5E0-01804C419761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0F9911-A060-46B4-B8A7-A25C1CBD209F}
+	EndGlobalSection
+EndGlobal
